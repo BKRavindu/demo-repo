@@ -1,3 +1,3 @@
 # Demo 
 
-This is the repo I learn in youtube
+This is the repo I learn in youtube for my learning
